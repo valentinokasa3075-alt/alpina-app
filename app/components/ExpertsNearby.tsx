@@ -45,7 +45,7 @@ export default function ExpertsNearby({ onClose }: ExpertsNearbyProps) {
 
       <div className="help-box">
 
-        <h2>Experten in deiner Nähe</h2>
+        <h2>Alpina Expertenchat</h2>
 
         <p className="help-sub">
           Zertifizierte Alpina Specialists stehen für Beratung bereit.

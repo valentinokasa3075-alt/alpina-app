@@ -79,7 +79,7 @@ export default function Hero({
             className="primary-btn"
             onClick={() => setShowExperts(true)}
           >
-            Experte in der Nähe
+            Alpina Expertenchat
           </button>
 
         </div>
